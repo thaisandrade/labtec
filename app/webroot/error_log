@@ -1,0 +1,34 @@
+[17-Jul-2013 00:04:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/lojatodo/public_html/_dev/app/Plugin/PagSeguro/Controller/Component/CarrinhoComponent.php on line 41
+[17-Jul-2013 00:04:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/lojatodo/public_html/_dev/app/Plugin/PagSeguro/Controller/Component/CarrinhoComponent.php on line 41
+[17-Jul-2013 00:05:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/lojatodo/public_html/_dev/app/Plugin/PagSeguro/Controller/Component/CarrinhoComponent.php on line 41
+[17-Jul-2013 00:06:14] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/lojatodo/public_html/_dev/app/Plugin/PagSeguro/Controller/Component/CarrinhoComponent.php on line 41
+[17-Jul-2013 00:11:56] PHP Fatal error:  Class 'CakeEmail' not found in /home/lojatodo/public_html/_dev/app/Controller/CarrinhoController.php on line 116
+[17-Jul-2013 00:12:16] PHP Fatal error:  Class 'CakeEmail' not found in /home/lojatodo/public_html/_dev/app/Controller/CarrinhoController.php on line 116
+[24-Jul-2013 17:02:26] PHP Parse error:  syntax error, unexpected ';' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 22
+[24-Jul-2013 17:02:28] PHP Parse error:  syntax error, unexpected ';' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 22
+[24-Jul-2013 17:03:26] PHP Parse error:  syntax error, unexpected ';' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 23
+[24-Jul-2013 17:07:22] PHP Parse error:  syntax error, unexpected '[' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 23
+[24-Jul-2013 17:07:23] PHP Parse error:  syntax error, unexpected '[' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 23
+[24-Jul-2013 17:07:23] PHP Parse error:  syntax error, unexpected '[' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 23
+[24-Jul-2013 17:07:23] PHP Parse error:  syntax error, unexpected '[' in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 23
+[24-Jul-2013 17:55:42] PHP Fatal error:  Call to undefined method View::redirect() in /home/lojatodo/public_html/_dev/app/View/Produtos/listar.ctp on line 5
+[30-Jul-2013 11:12:58] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[30-Jul-2013 11:23:28] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8448 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[30-Jul-2013 11:25:42] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8448 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[30-Jul-2013 11:28:12] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8448 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[30-Jul-2013 11:29:53] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[30-Jul-2013 11:33:53] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 12:01:07] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 12:05:20] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 12:09:36] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 16:41:02] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 16:49:24] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 16:57:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 17:07:06] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 17:08:46] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[03-Aug-2013 17:18:58] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[04-Aug-2013 11:27:54] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[04-Aug-2013 12:28:18] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[04-Aug-2013 12:39:35] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[05-Aug-2013 11:33:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020
+[06-Aug-2013 10:31:17] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3000 bytes) in /home/lojatodo/public_html/_dev/app/Plugin/Upload/Model/Behavior/UploadBehavior.php on line 1020

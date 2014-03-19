@@ -1,0 +1,14 @@
+{2013/08/08 10:47:00} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - begin 
+{2013/08/08 10:47:03} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - error [HTTP 400] - BAD_REQUEST [11012] - senderName invalid value: Silvio 
+{2013/08/08 10:47:19} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - begin 
+{2013/08/08 10:47:20} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - error [HTTP 400] - BAD_REQUEST [11012] - senderName invalid value: silvio 
+{2013/08/08 10:48:27} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - begin 
+{2013/08/08 10:48:28} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - end {1}88CE55075757D5E77465BF9FD3ED9350 
+{2013/08/08 10:49:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - begin 
+{2013/08/08 10:49:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - end {1}B57A4F399595DDD994883FAB81359318 
+{2013/08/08 10:51:17} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - begin 
+{2013/08/08 10:51:18} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - error [HTTP 400] - BAD_REQUEST [11012] - senderName invalid value: silvio 
+{2013/08/08 10:51:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - begin 
+{2013/08/08 10:51:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=contato@orions.com.br)) - end {1}742026168E8EA71FF494EFB65E641954 
+{2013/08/08 10:54:06} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=cassiodamacena@hotmail.com)) - begin 
+{2013/08/08 10:54:07} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=,     SenderEmail=cassiodamacena@hotmail.com)) - end {1}B56672345D5DD0466445FFA6D1E5D13D 

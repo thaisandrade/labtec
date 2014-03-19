@@ -1,0 +1,13 @@
+<?php
+class DATABASE_CONFIG {
+    public $default = array(
+        'datasource' => 'Database/Mysql',
+        'persistent' => false,
+        'host' => 'localhost',
+        'login' => 'root',
+        'password' => '',
+        'database' => 'floragra_sys',
+        'encoding' => 'utf8'
+		//Q500np[}hr[X
+    );
+}
